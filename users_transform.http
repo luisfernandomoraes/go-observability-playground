@@ -1,0 +1,22 @@
+### Process the users data
+POST http://localhost:8080/users/transform
+Content-Type: application/json
+
+[
+  {"name": "Luis", "age": 20},
+  {"name": "Alice", "age": 19},
+  {"name": "Bob", "age": 35},
+  {"name": "Diana", "age": 22},
+  {"name": "Paula", "age": 57},
+  {"name": "Quentin", "age": 58},
+  {"name": "Rachel", "age": 59},
+  {"name": "Steve", "age": 60},
+  {"name": "Tracy", "age": 61},
+  {"name": "Uma", "age": 62},
+  {"name": "Victor", "age": 63},
+  {"name": "Wendy", "age": 64},
+  {"name": "Xander", "age": 65},
+  {"name": "Yvonne", "age": 66},
+  {"name": "Zach", "age": 67}
+]
+###
