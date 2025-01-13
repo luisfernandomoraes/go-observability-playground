@@ -160,7 +160,7 @@ Thanks for your time! 😊
 #### TODO
 
 - [ ] ELK Stack
-- [-] OpenTelemetry
+- [x] OpenTelemetry
 - [ ] Datadog
 - [ ] Prometheus & Grafana
 - [ ] Dockerize
